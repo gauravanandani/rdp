@@ -1,0 +1,47 @@
+Usage: 
+    websockify [options] [source_addr:]source_port [target_addr:target_port]
+    websockify [options] [source_addr:]source_port -- WRAP_COMMAND_LINE
+
+websockify: error: Error parsing listen port
+Usage: 
+    websockify [options] [source_addr:]source_port [target_addr:target_port]
+    websockify [options] [source_addr:]source_port -- WRAP_COMMAND_LINE
+
+websockify: error: Error parsing listen port
+WebSocket server settings:
+  - Listen on :56895
+  - Flash security policy server
+  - Web server. Web root: /usr/share/novnc
+  - No SSL/TLS support (no cert file)
+  - proxying from :56895 to 192.168.42.163:5992
+Usage: 
+    websockify [options] [source_addr:]source_port [target_addr:target_port]
+    websockify [options] [source_addr:]source_port -- WRAP_COMMAND_LINE
+
+websockify: error: Error parsing listen port
+Usage: 
+    websockify [options] [source_addr:]source_port [target_addr:target_port]
+    websockify [options] [source_addr:]source_port -- WRAP_COMMAND_LINE
+
+websockify: error: Error parsing listen port
+Usage: 
+    websockify [options] [source_addr:]source_port [target_addr:target_port]
+    websockify [options] [source_addr:]source_port -- WRAP_COMMAND_LINE
+
+websockify: error: Error parsing listen port
+Usage: 
+    websockify [options] [source_addr:]source_port [target_addr:target_port]
+    websockify [options] [source_addr:]source_port -- WRAP_COMMAND_LINE
+
+websockify: error: Error parsing listen port
+Usage: 
+    websockify [options] [source_addr:]source_port [target_addr:target_port]
+    websockify [options] [source_addr:]source_port -- WRAP_COMMAND_LINE
+
+websockify: error: Error parsing listen port
+In exit
+Usage: 
+    websockify [options] [source_addr:]source_port [target_addr:target_port]
+    websockify [options] [source_addr:]source_port -- WRAP_COMMAND_LINE
+
+websockify: error: Error parsing listen port
